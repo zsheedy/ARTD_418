@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+}
+.wrapper {
+    background-color: black;
+    padding: 0px;
+}
+.logoani {
+   padding: 30px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p {
+    font-family: "gilbert";
+    color: aqua;
+}
